@@ -6,9 +6,9 @@ import { LinkContainer } from "react-router-bootstrap";
 class Header extends Component {
   titles = [];
 
-  constructor() {
-    super();
-    this.state = { checked: false };
+  constructor(props) {
+    super(props);
+    this.state = { checked: true };
     this.onThemeSwitchChange = this.onThemeSwitchChange.bind(this);
   }
 
