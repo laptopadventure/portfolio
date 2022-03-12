@@ -1,7 +1,7 @@
 {
     "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Hugo Thompson. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description_header": "Hello!",
+      "description": "Hi, I’m Hugo Thompson, and I’m a Software Engineer. I started my coding journey about halfway through high school, where I found a game that had a repository anyone could contribute to. I thought the idea of that was really cool and so I self learned a bit of the language to contribute myself. And yeah, delivering features to players and solving long standing design issues for the game was extremely fun, as in, I began to enjoy coding more than I did the game I was coding for! This continued until I graduated, but then came covid, After a lot of deliberation on where I was going to take myself in life, I decided to continue my self learning instead of dealing with online college classes at full price, partially because I assumed covid wasn’t going to be as long as it ended up being. Boy was I wrong about that. I self learned some more for about two years and then decided to get some more formal education on being a software developer, since I had a lot of informal education but I didn’t know what I didn’t know. This led me to code fellows, where I’m currently learning more about the industry.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",

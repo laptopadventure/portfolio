@@ -10,8 +10,12 @@ body[data-theme="dark"] {
       color: white;
    }
 
+   .title-container {
+      color: white;
+   }
+
    .header-icon {
-      color: #3C342C;
+      filter: invert(78%) sepia(94%) saturate(0%) hue-rotate(37deg) brightness(107%) contrast(108%);
       opacity: 0.8;
    }
 
