@@ -11,26 +11,27 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
+        "title": "201 Final",
         "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "description": "The end of my class on the \"Foundations of Software Development\", I decided to make a little browser game. Wow, what a crunch it turned into! And in the end, it just turned out alright, but what really makes me look back at the project with pride was the systems I made for it, like the popup system and the hintsystem. Super robust use of constructed types, so all in all I'm very happy I decided to take the path of most resistance.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/201final/f-1.png",
+          "images/portfolio/201final/f-2.png",
+          "images/portfolio/201final/f-3.png"
         ],
         "url": "",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           }
         ]
       },
@@ -39,8 +40,8 @@
         "startDate": "2022",
         "description": "First react project for school, a little fun image repo site. I sure do get carried away with css styling, but it's genuinely fun to find things to improve about the site, even if just a school project people don't really care much about.",
         "images": [
-          "images/portfolio/hornedbeasts/p1.jpg",
-          "images/portfolio/hornedbeasts/p2.jpg"
+          "images/portfolio/hornedbeasts/hb-1.png",
+          "images/portfolio/hornedbeasts/hb-2.png"
         ],
         "url": "https://github.com",
         "technologies": [
@@ -57,61 +58,41 @@
       {
         "title": "301 Final",
         "startDate": "2022",
-        "description": "My final project for my react class, which will be here when I'm done",
+        "description": "My final project for my react class, which will be here when I'm done!",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg"
         ],
         "url": "https://github.com",
         "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
         ]
       }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "CodeFellows",
+        "title": "Student",
+        "years": "late 2019 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "JavaScript"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
+          "HTML5",
+          "CSS3",
           "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "React"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Open Source Contributions",
+        "title": "Contributor",
+        "years": "2017 and onwards",
         "mainTech": [
-          "Angular 7/8"
+          "JavaScript"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
+          "DM",
           "JavaScript",
-          "DHTMLX Gantt"
+          "TypeScript"
         ]
       }
     ]
