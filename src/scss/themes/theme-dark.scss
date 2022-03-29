@@ -3,15 +3,15 @@ body[data-theme="dark"] {
    @import '/src/scss/dark-slider.scss';
 
    .slider-tab {
-      background-color: #8C8C8C;
+      background-color: #76768a;
    }
 
    .title-styles {
-      color: white;
+      color: #e6e8ff;
    }
 
    .title-container {
-      color: white;
+      color: #e6e8ff;
    }
 
    .header-icon {
@@ -20,53 +20,53 @@ body[data-theme="dark"] {
    }
 
    .slider-image {
-      border: 5px solid #8C8C8C;
+      border: 5px solid #7d7b8a;
    }
 
    .language {
-      background-color: #494949;
+      background-color: #3f3e47;
    }
 
    .link-href {
-      color: white;
+      color: #e6e8ff;
    }
 
    .project-date {
       background-color: #918e97;
-      color: white;
+      color: #e6e8ff;
    }
 
    header {
       background-color: #494949;
       h1 {
-         color: white;
+         color: #e6e8ff;
       }
    }
 
    #about {
       background-color: #7f7f7f;
       h1 span {
-         color: white;
+         color: #e6e8ff;
       }
       .polaroid span {
          background:  #6d6d6d;
       }
       .card {
          background: #6d6d6d;
-         color: white;
+         color: #e6e8ff;
       }
    }
 
    #portfolio {
       background: #5b5b5b;
       .section-title {
-         color: white !important;
+         color: #e6e8ff !important;
       }
       .foto div {
          background: #6d6d6d;
       }
       .project-title-settings {
-         color: white;
+         color: #e6e8ff;
       }
    }
 
@@ -74,12 +74,12 @@ body[data-theme="dark"] {
       filter: brightness(80%);
       background: #5b5b5b;
       .section-title {
-         color: white !important;
+         color: #e6e8ff !important;
       }
 
       .experience-badge {
          background: #919191 !important;
-         color: white;
+         color: #e6e8ff;
       }
 
       .main-badge {
@@ -87,7 +87,7 @@ body[data-theme="dark"] {
       }
 
       .vertical-timeline-element-date {
-         color: white;
+         color: #e6e8ff;
       }
 
       .vertical-timeline-element-icon {
@@ -102,10 +102,14 @@ body[data-theme="dark"] {
 
    .modal-inside .modal-content {
       background: #5b5b5b;
-      color: white;
+      color: #e6e8ff;
    }
 
    .close-icon {
-      color: white;
+      color: #e6e8ff;
    }
+}
+
+#home {
+   background-image: url('../../../public/cc0code.jpg');
 }
