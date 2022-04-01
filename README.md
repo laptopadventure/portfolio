@@ -1,3 +1,5 @@
-# Modify this portfolio
+# Portfolio
 
-Make it your own! 
+(My Current Deployment)[https://hugos-portfolio.netlify.app/]
+
+This is a portfolio of my work as a Software Developer.

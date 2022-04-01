@@ -10,7 +10,7 @@ import Home from "./components/Home";
 class App extends Component {
 
   constructor(props) {
-    super();
+    super(props);
     this.state = {
       foo: "bar",
       resumeData: {},
@@ -29,8 +29,7 @@ class App extends Component {
   }
 
   swapCurrentlyActiveLanguage = (oppositeLangIconId) => {
-    var pickedLangIconId =
-      oppositeLangIconId === window.$primaryLanguageIconId
+    var pickedLangIconId = oppositeLangIconId === window.$primaryLanguageIconId
         ? window.$secondaryLanguageIconId
         : window.$primaryLanguageIconId;
     document

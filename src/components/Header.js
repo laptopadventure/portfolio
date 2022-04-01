@@ -6,9 +6,9 @@ import { LinkContainer } from "react-router-bootstrap";
 class Header extends Component {
   titles = [];
 
-  constructor() {
-    super();
-    this.state = { checked: false };
+  constructor(props) {
+    super(props);
+    this.state = { checked: true };
     this.onThemeSwitchChange = this.onThemeSwitchChange.bind(this);
   }
 
@@ -103,7 +103,7 @@ class Header extends Component {
             <div>
               <span className="iconify header-icon" data-icon="la:laptop-code" data-inline="false"></span>
               <br/>
-              <h1 className="mb-0">
+              <h1 className="my-name">
                 {name}
               </h1>
               <div className="title-container">
